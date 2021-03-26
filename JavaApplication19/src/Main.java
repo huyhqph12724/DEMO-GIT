@@ -10,7 +10,7 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello github");
+        System.out.println("Hello github sửa rồi");
         System.out.println("Thêm mới");
     }
 }
